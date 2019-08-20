@@ -1,5 +1,3 @@
-package com.java;
-
 import java.util.Random;
 
 public class GenRandom {
